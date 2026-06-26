@@ -1,0 +1,7 @@
+node_modules/
+redis-server/
+composer.phar
+.gemini/
+.agents/
+*.zip
+*.log

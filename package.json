@@ -1,0 +1,12 @@
+{
+  "name": "clevista-diani",
+  "version": "1.0.0",
+  "description": "CleVista Group Limited Web Platform with Auto-Reload & Redis Caching",
+  "main": "index.php",
+  "scripts": {
+    "dev": "browser-sync start --proxy \"localhost:8000\" --files \"**/*.php, css/**/*.css, js/**/*.js\" --no-open --port 3000"
+  },
+  "devDependencies": {
+    "browser-sync": "^3.0.3"
+  }
+}
