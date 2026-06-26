@@ -318,38 +318,38 @@ if (!$cache_hit && !empty($featured_properties)) {
         </div>
         
         <div class="listings-grid">
-            <div class="listing-card">
+            <a href="magazine.php?id=diani-living" class="listing-card" style="text-decoration: none;">
                 <div class="listing-img" style="height:200px;">
                     <img src="uploads/diani_beach_hero.png" alt="Diani Living">
                 </div>
                 <div class="listing-body" style="padding:16px 0;">
                     <span style="font-family:'Inter'; font-size:0.7rem; text-transform:uppercase; color:var(--accent-gold); letter-spacing:1px; margin-bottom:8px; display:block;">Lifestyle</span>
                     <h4 style="font-family:'Playfair Display'; font-size:1.2rem; color: var(--sir-blue); margin-bottom:8px;">Diani Living: Kenya's White Sand Haven</h4>
-                    <p style="font-size:0.85rem;">Discover why international investors are choosing Galu and Diani central beach road for luxury developments.</p>
+                    <p style="font-size:0.85rem; color: var(--sir-text-grey);">Discover why international investors are choosing Galu and Diani central beach road for luxury developments.</p>
                 </div>
-            </div>
+            </a>
             
-            <div class="listing-card">
+            <a href="magazine.php?id=diaspora-protection" class="listing-card" style="text-decoration: none;">
                 <div class="listing-img" style="height:200px;">
                     <img src="uploads/property_care_site.png" alt="Asset Protection">
                 </div>
                 <div class="listing-body" style="padding:16px 0;">
                     <span style="font-family:'Inter'; font-size:0.7rem; text-transform:uppercase; color:var(--accent-gold); letter-spacing:1px; margin-bottom:8px; display:block;">Property Care</span>
                     <h4 style="font-family:'Playfair Display'; font-size:1.2rem; color: var(--sir-blue); margin-bottom:8px;">Diaspora Asset Protection: Preserving Legacies</h4>
-                    <p style="font-size:0.85rem;">How CleVista Care provides property owners abroad with real-time cleaning, landscaping, and inspections logs.</p>
+                    <p style="font-size:0.85rem; color: var(--sir-text-grey);">How CleVista Care provides property owners abroad with real-time cleaning, landscaping, and inspections logs.</p>
                 </div>
-            </div>
+            </a>
             
-            <div class="listing-card">
+            <a href="magazine.php?id=swahili-architecture" class="listing-card" style="text-decoration: none;">
                 <div class="listing-img" style="height:200px;">
                     <img src="uploads/swahili_luxury_villa.png" alt="Architecture">
                 </div>
                 <div class="listing-body" style="padding:16px 0;">
                     <span style="font-family:'Inter'; font-size:0.7rem; text-transform:uppercase; color:var(--accent-gold); letter-spacing:1px; margin-bottom:8px; display:block;">Architecture</span>
                     <h4 style="font-family:'Playfair Display'; font-size:1.2rem; color: var(--sir-blue); margin-bottom:8px;">Coastal Swahili Modern Architecture</h4>
-                    <p style="font-size:0.85rem;">Exploring architectural integration blending traditional Swahili coral limestone with modern glass villas.</p>
+                    <p style="font-size:0.85rem; color: var(--sir-text-grey);">Exploring architectural integration blending traditional Swahili coral limestone with modern glass villas.</p>
                 </div>
-            </div>
+            </a>
         </div>
     </div>
 </section>
