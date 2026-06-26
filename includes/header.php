@@ -109,7 +109,7 @@ $current_page = basename($_SERVER['PHP_SELF']);
                     <span class="nav-subtitle">Connect With Local Experts</span>
                 </li>
                 <li class="nav-menu-item">
-                    <a href="index.php#magazine" class="nav-link" data-i18n="nav_stories">Stories</a>
+                    <a href="magazine.php" class="nav-link" data-i18n="nav_stories">Stories</a>
                     <span class="nav-subtitle">Luxury Lifestyle Journal</span>
                 </li>
                 <li class="nav-menu-item btn-sell-wrapper">

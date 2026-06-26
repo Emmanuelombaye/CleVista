@@ -5,3 +5,4 @@ composer.phar
 .agents/
 *.zip
 *.log
+config.bat
